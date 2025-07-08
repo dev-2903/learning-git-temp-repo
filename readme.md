@@ -1,4 +1,6 @@
 # hello world
 
-first time trying out git and github 
+First time trying out git and github 
+
+changed the file
 
